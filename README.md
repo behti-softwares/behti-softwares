@@ -52,7 +52,7 @@ If you like what I do and want to support my projects, you can **buy me a coffee
 
 <div align="center">
   
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/behti.softwares)
 
 </div>
 
